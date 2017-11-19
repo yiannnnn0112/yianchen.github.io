@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body style="color:rgb(0, 61, 102);font-family:微軟正黑體;font-size:110%;">
+
+<pre style="font-family:微軟正黑體;font-size:110%;"><b>學歷</b>：
+國小：<a href="http://www.cdps.ntpc.edu.tw" target="_blank"><img src="崇德校徽.png" style="width:50px;height:50px;"></a><a href="http://www.cdps.ntpc.edu.tw" target="_blank"><i>崇德國小</i></a>
+國中：<a href="http://www.hhhs.tp.edu.tw/huaxing/index1.aspx" target="_blank"><img src="華興校徽.gif" style="width:50px;height:50px;"><a href="http://www.hhhs.tp.edu.tw/huaxing/index1.aspx" target="_blank"><i>華興中學</i></a>
+高中：<a href="http://www.hs.ntnu.edu.tw" target="_blank"><img src="附中校徽.png" style="width:50px;height:50px;"><a href="http://www.hs.ntnu.edu.tw" target="_blank"><i>師大附中</i></a>
+大學：<a href="http://www.nccu.edu.tw/?locale=zh_tw" target="_blank"><img src="政大校徽.jpg" style="width:50px;height:50px;"><a href="http://www.nccu.edu.tw/?locale=zh_tw" target="_blank"><i>政治大學</i></a>
+</pre>
+
+
+</body>
+</html>
